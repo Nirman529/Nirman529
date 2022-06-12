@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nirman529
 - 👀 I’m interested in a lot of different domains such as web development, python, etc.
-- 🌱 I’m currently learning JavaScript and developing an e-commerce website.
-- 💞️ I’m looking to collaborate on web-development.
+- 🌱 Currently proficient JavaScript and ReactJs framework and currently working at The Diamond Port.
+- 💞️ I would be happy to collaborate on developing ReactJs based projects.
 - 📫 You can reach me on e-mail (nirmanmalaviya529@gmail.com) and linkedIn too.
 
 <!---
